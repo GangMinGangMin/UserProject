@@ -1,7 +1,7 @@
-package com.example;
+package com.example.board;
 
-import com.example.bean.BoardVO;
-import com.example.dao.BoardServiceImpl;
+import com.example.board.BoardVO;
+import com.example.board.BoardServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

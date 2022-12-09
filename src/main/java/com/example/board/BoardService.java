@@ -1,6 +1,6 @@
-package com.example.dao;
+package com.example.board;
 
-import com.example.bean.BoardVO;
+import com.example.board.BoardVO;
 
 import java.util.List;
 public interface BoardService {
